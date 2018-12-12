@@ -5,11 +5,17 @@ This project is part of the online social media situation analysis system to ver
 
 ## about data
 **Irank**  Box office ranking for this movie
+
 **mId**  Movie number
+
 **MovieName**  Movie name
+
 **BoxOffice**  Movie real-time box office
+
 **sumBoxOffice**  Movie total box office
+
 **movieDay**  release time
+
 **boxPer**  Box office ring
 
 
