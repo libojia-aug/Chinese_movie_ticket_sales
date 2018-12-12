@@ -40,3 +40,6 @@ This project is part of the online social media situation analysis system to ver
 10^675992^最后一公里^4.64^362.33^27^0.47
 
 11^0^其它^21.23^0.00^0^1.00
+
+
+_Thanks to http://www.cbooo.cn/realtime, the data obtained by this project and this project are all used for non-profit education and research projects._
