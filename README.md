@@ -4,13 +4,13 @@ Getting daily Chinese movie ticket sales
 This project is part of the online social media situation analysis system to verify the accuracy and effectiveness of the situation assessment system.
 
 ## about data
-_Irank_  Box office ranking for this movie
-_mId_  Movie number
-_MovieName_  Movie name
-_BoxOffice_  Movie real-time box office
-_sumBoxOffice_  Movie total box office
-_movieDay_  release time
-_boxPer_  Box office ring
+**Irank**  Box office ranking for this movie
+**mId**  Movie number
+**MovieName**  Movie name
+**BoxOffice**  Movie real-time box office
+**sumBoxOffice**  Movie total box office
+**movieDay**  release time
+**boxPer**  Box office ring
 
 
 1^665526^海王^798.73^81885.55^6^80.38
